@@ -7,6 +7,6 @@ I am a Full Stack Developer currently working as an SDE intern at [Freshworks](h
 
 - 🔭 I’m currently working on [url-box](https://url-box.netlify.app/) :blue_heart:
 - 🌱 I’m currently Learning React Native, Typescript
-- :snowflake: I Love :video_game:
+- :snowflake: I love playing fps :video_game:
 
 [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=coderhawk999&theme=blue-green)]()
