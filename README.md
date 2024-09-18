@@ -9,4 +9,4 @@ I am a Full Stack Developer currently working as an Frontend Engineer at [Locale
 - 🌱 I’m currently Learning React Native, Typescript, Vue
 - :snowflake: I love playing fps :video_game:
 
-[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=coderhawk999&theme=blue-green)]()
+[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=afrzhussain&theme=blue-green)]()
